@@ -1,0 +1,30 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title for app -->
+    <string name="app_name">Just Java</string>
+
+    <!-- Hint text for name input -->
+    <string name="name">Name</string>
+
+    <!-- Headers -->
+    <string name="toppings">Toppings </string>
+    <string name="quantity">"Quantity: "</string>
+
+    <!-- Topping options -->
+    <string name="whippedcream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+
+    <!-- Buttons -->
+    <string name="subtract" translatable="false">-</string>
+    <string name="add" translatable="false">+</string>
+    <string name="order">Order</string>
+
+    <string name="digit" translatable="false">0</string>
+
+    <!-- Message -->
+    <string name="order_summary_name"><xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="addwhippedcream">Add whipped cream? </string>
+    <string name="addchocolate">Add chocolate? </string>
+    <string name="total">Total: </string>
+    <string name="thank_you">Thank you!</string>
+
+</resources>
